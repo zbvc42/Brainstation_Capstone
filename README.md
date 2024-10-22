@@ -1,4 +1,4 @@
-# CAPSTONE DEMO README
+# Zachary's Capstone README
 
 ### Describe your project (big idea)
 
